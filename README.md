@@ -1,0 +1,2 @@
+
+Proste GUI z opcjami
